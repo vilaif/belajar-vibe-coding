@@ -8,6 +8,13 @@
       "when": 1789646313197,
       "tag": "0000_majestic_ultron",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1789654640886,
+      "tag": "0001_glorious_night_thrasher",
+      "breakpoints": true
     }
   ]
 }
